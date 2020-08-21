@@ -12,7 +12,7 @@ tags:
   - その他
 image:
   filename: featured.png
-  preview_only: false
+  preview_only: true
   focal_point: CENTER
 ---
 # 挨拶
