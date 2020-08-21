@@ -1,14 +1,31 @@
 ---
-title: Posts
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+draft: false
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
+title: このブログについて
+date: 2020-08-21T16:57:49.969Z
+summary: ""
 header:
   caption: ""
   image: ""
+featured: false
+tags:
+  - その他
+image:
+  filename: avatar.png
+  preview_only: false
 ---
+# 挨拶
+
+こんにちは！
+ゆさと申します。
+とある学校で情報の勉強をしている高校生です。
+
+# これから
+このブログでは自分が主に興味を持っている
+経済と情報科学についての記事を書くつもりですので
+読んで頂けたら幸いです。
+
+# 最後に
+```python
+print("Welcome to ゆさろぐ!")
+```
