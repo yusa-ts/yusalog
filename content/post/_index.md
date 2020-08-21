@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 view: 2
 title: このブログについて
 date: 2020-08-21T16:57:49.969Z
