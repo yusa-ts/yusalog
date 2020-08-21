@@ -11,8 +11,9 @@ featured: true
 tags:
   - その他
 image:
-  filename: avatar.png
+  filename: featured.png
   preview_only: false
+  focal_point: CENTER
 ---
 # 挨拶
 
