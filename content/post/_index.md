@@ -7,7 +7,7 @@ summary: ""
 header:
   caption: ""
   image: ""
-featured: false
+featured: true
 tags:
   - その他
 image:
