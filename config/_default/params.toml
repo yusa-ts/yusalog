@@ -88,7 +88,7 @@ show_related = {post = true}
 ############################
 
 ## Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
+email = "yusatsukinaga@gmail.com"
 #phone = "888 888 88 88"
 #
 ## Address
@@ -127,7 +127,7 @@ email = "test@example.org"
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = ""
+twitter = "yusa_ts"
 
 ############################
 ## Regional Settings
