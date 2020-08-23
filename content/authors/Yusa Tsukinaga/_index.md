@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 経済と情報科学に興味がある学生です!
 
 interests:
 - Economics
