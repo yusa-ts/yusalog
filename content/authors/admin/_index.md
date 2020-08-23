@@ -2,8 +2,7 @@
 title: Yusa Tsukinaga
 role: Student in Japan
 avatar_filename: avatar.png
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: 経済と情報科学に興味がある学生です!
 interests:
   - Economics
   - Computer Science
